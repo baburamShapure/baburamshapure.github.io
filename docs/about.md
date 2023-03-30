@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I am Abhishek. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently I am in Ericsson Research working on Graph neural networks, Reinforcement learning and Meta learning for next-gen 6G systems. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Previously, I was with Ericsson Digital Services for 8 years. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+Outside work, I am your next door expert on Science-fiction and motorcycles. Feel free to ask me about your next read or ride. 
